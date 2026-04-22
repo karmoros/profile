@@ -34,8 +34,8 @@ I enjoy automating everything around trading and network infrastructure.
 
 ## Contact
 
-- Telegram: @your_username
-- Email: your_email@example.com
+- Telegram: @tetrapakmolokoev
+- Email: karmoros@gmail.com
 - Open to remote Python / Backend / Network tooling opportunities
 
 ---
