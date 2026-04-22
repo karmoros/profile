@@ -6,10 +6,15 @@
 
 ## About
 
-Python developer from Russia. Building:
-- AI trading bots (OKX)
-- VPN / v2ray tools
-- Linux utilities & networking scripts
+I build AI-driven trading bots, network and VPN tools, and Linux utilities.
+My main interests are Python backends, async services, and censorship circumvention tooling (V2Ray, Shadowsocks, custom scanners).
+I enjoy automating everything around trading and network infrastructure.
+
+### Exchanges
+
+- **OKX** — trading bots
+- **Binance** — trading bots
+- **Bybit** — trading bots
 
 ## Tech Stack
 
@@ -24,13 +29,14 @@ Python developer from Russia. Building:
 | Project | Description | Link |
 |---------|-------------|------|
 | v2ray_auto_scanner | Auto scanner for VLESS/V2Ray configs with latency measurement | [GitHub](https://github.com/karmoros/v2ray_auto_scanner) |
-
-More projects coming soon...
+| **okx_drl_trader** (WIP) | Deep Reinforcement Learning trading bot for OKX | — |
+| **net_utils** (planned) | Collection of CLI tools for Linux networking and censorship bypass | — |
 
 ## Contact
 
 - Telegram: @your_username
 - Email: your_email@example.com
+- Open to remote Python / Backend / Network tooling opportunities
 
 ---
 
