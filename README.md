@@ -1,3 +1,5 @@
+⚠️ Аккаунт karmoros переехал → @MrTodone. Здесь ничего не обновляется, актуальное — на новом аккаунте.
+
 # MrTodOne
 
 **Russian program maker | AI trading bots, VPN/v2ray tools, Linux & Networking**
